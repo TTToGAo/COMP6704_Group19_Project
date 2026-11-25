@@ -1,0 +1,42 @@
+{
+  "dataset_id": "ijcnn1",
+  "dataset_url": "https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/ijcnn1.bz2",
+  "dataset_hash": "16506cad788cf7c9607454150ed1994788204bac2ff4c9cb3b320036b6950d3f",
+  "dataset_hash_scope": "decompressed original bytes",
+  "subset_hash": "256131a7e4741b848ab9e5be8148a3f35e1d63b65d0edab3288e192bfd9a2dfc",
+  "sample_indices_file": "indices.npy",
+  "indices_hash": "0deb69ea6741da68ad47efbe9939eab634f11839eb3bfba7d391fbfe9626b2d7",
+  "seed": 19,
+  "rng": "PCG64",
+  "n_train": 1500,
+  "n_features": 22,
+  "negative_count": 1354,
+  "positive_count": 146,
+  "kernel": "rbf",
+  "C": 1.0,
+  "gamma": 0.045454545454545456,
+  "epsilon": 0.001,
+  "alpha0": 0,
+  "max_iter": 1000000,
+  "log_every": 10,
+  "dtype": "float64",
+  "shrinking": false,
+  "feature_scaling": "none",
+  "algorithm": "second_order_smo",
+  "input_file": "inputs/ijcnn1_seed19/subset.libsvm",
+  "implementation_sha256": "03fb707e99a4e8fa0c7473dbe3655249acb8e70d50c5734c47f3d9be9cdcb1ff",
+  "working_set_reference_sha256": "2479a3ca8a02b0410a40c745bacc7205fcfd2e909a07e80067a5883667e74969",
+  "machine": {
+    "os": "Linux-6.8.0-87-generic-x86_64-with-glibc2.39",
+    "architecture": "x86_64",
+    "processor": "x86_64",
+    "python": "3.13.2",
+    "numpy": "2.5.3"
+  },
+  "threads": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  },
+  "timing_scope": "Python diagnostic with kernel creation and history logging"
+}

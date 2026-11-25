@@ -1,0 +1,13 @@
+{
+  "algorithm": "platt_smo",
+  "iterations": 632,
+  "stop_reason": "converged",
+  "train_seconds": 0.05957095799999999,
+  "bias": -0.37373972940032507,
+  "dual_objective": 106.51916614206787,
+  "equality_residual": 1.3877787807814457e-16,
+  "box_violation": 0.0,
+  "kkt_violation": 0.0009401053717491559,
+  "gmax": -0.3732817515910918,
+  "gmax2": 0.37422185696284094
+}

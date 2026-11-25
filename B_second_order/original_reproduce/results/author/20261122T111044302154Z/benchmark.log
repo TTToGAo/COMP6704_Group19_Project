@@ -1,0 +1,15 @@
+smo2: smo2, 129 updates, KKT=0.00099215098, T=0.000630s
+csmo: csmo, 116 updates, KKT=0.00096985635, T=0.000685s
+smo2: smo2, 476 updates, KKT=0.00084775708, T=0.009798s
+csmo: csmo, 431 updates, KKT=0.00075606434, T=0.010293s
+smo2: smo2, 6730 updates, KKT=0.00098717355, T=8.879757s
+csmo: csmo, 6653 updates, KKT=0.00094378751, T=9.013359s
+csmo: csmo, 6653 updates, KKT=0.00094378751, T=9.083872s
+smo2: smo2, 6730 updates, KKT=0.00098717355, T=8.844431s
+smo2: smo2, 6730 updates, KKT=0.00098717355, T=8.900554s
+csmo: csmo, 6653 updates, KKT=0.00094378751, T=9.087772s
+csmo: csmo, 6653 updates, KKT=0.00094378751, T=9.126111s
+smo2: smo2, 6730 updates, KKT=0.00098717355, T=8.840426s
+smo2: smo2, 6730 updates, KKT=0.00098717355, T=8.961239s
+csmo: csmo, 6653 updates, KKT=0.00094378751, T=9.141678s
+Saved five paired runs and aggregation in results/author/20261122T111044302154Z/full.

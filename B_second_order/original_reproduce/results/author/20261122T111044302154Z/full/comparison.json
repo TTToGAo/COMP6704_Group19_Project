@@ -1,0 +1,30 @@
+{
+  "rounds": 5,
+  "median_paired_speedup": 0.9793989292803735,
+  "modes": [
+    {
+      "algorithm": "smo2",
+      "n_runs": 5,
+      "iterations_median": 6730,
+      "dual_objective_median": 8148.188173121678,
+      "kkt_violation_median": 0.0009871735500812662,
+      "train_seconds_median": 8.87975734,
+      "seconds_per_update_median": 0.0013194290252600295,
+      "test_accuracy_median": 0.9278742870852008,
+      "train_seconds_min": 8.840426289,
+      "train_seconds_max": 8.961239281
+    },
+    {
+      "algorithm": "csmo",
+      "n_runs": 5,
+      "iterations_median": 6653,
+      "dual_objective_median": 8148.188386113675,
+      "kkt_violation_median": 0.0009437875125750672,
+      "train_seconds_median": 9.087771774,
+      "seconds_per_update_median": 0.001365965996392605,
+      "test_accuracy_median": 0.9278742870852008,
+      "train_seconds_min": 9.013358715,
+      "train_seconds_max": 9.141678259
+    }
+  ]
+}

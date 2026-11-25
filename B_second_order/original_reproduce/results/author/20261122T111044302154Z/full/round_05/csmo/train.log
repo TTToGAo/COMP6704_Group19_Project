@@ -1,0 +1,9 @@
+CD SOLVER
+*
+optimization finished, #iter = 6653
+#iter_cd = 6653, #iter_clip = 6343, #iter_smo = 0
+nu = 0.178898
+obj = -8148.188386, rho = 1.647138
+nSV = 8965, nBSV = 8921
+Total nSV = 8965
+GROUP19_END 9.1416782590000008 -1.6466282031634949 1.64757199067607 -8148.1883861136748 1

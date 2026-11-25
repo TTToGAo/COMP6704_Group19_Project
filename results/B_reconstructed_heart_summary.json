@@ -1,0 +1,11 @@
+{
+  "algorithm": "second_order_smo_reconstructed",
+  "iterations": 120,
+  "stop_reason": "converged",
+  "dual_objective": 106.51916734300482,
+  "equality_residual": 1.7763568394002505e-15,
+  "box_violation": 0.0,
+  "kkt_violation": 0.000763615011706742,
+  "gmax": -0.3737991157879377,
+  "gmax2": 0.3745627307996444
+}

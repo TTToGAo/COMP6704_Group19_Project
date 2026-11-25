@@ -1,0 +1,33 @@
+{
+  "algorithm": "csmo",
+  "mode": 1,
+  "iterations": 116,
+  "stop_reason": "converged",
+  "dual_objective": 106.51916529826445,
+  "kkt_violation": 0.0009698563510625036,
+  "gmax": -0.37324815698076164,
+  "gmax2": 0.37421801333182414,
+  "native_kkt_source": "solver_full_stop_check",
+  "train_seconds": 0.00068502,
+  "seconds_per_update": 5.905344827586207e-06,
+  "n_clipped": 74,
+  "n_fallback": 0,
+  "equality_residual": 4.440892098500626e-16,
+  "box_violation": 0.0,
+  "common_float64_metrics": {
+    "dual_objective": 106.51916618686113,
+    "kkt_violation": 0.0009699497903461474,
+    "equality_residual": 4.440892098500626e-16,
+    "box_violation": 0.0,
+    "gmax": -0.37324823716317534,
+    "gmax2": 0.3742181869535215
+  },
+  "float32_kernel_metrics": {
+    "dual_objective": 106.5191652935536,
+    "kkt_violation": 0.0009698613976443227,
+    "equality_residual": 4.440892098500626e-16,
+    "box_violation": 0.0,
+    "gmax": -0.3732481569807615,
+    "gmax2": 0.37421801837840585
+  }
+}

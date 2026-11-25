@@ -1,0 +1,42 @@
+{
+  "algorithm": "CSMO",
+  "dataset_id": "heart_scale",
+  "dataset_url": "https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/heart_scale",
+  "dataset_hash": "5defa0a4c4c5bdaf3f55ae3828310252e8565c13ee37ce279e0b86d82e7f4ce9",
+  "dataset_hash_scope": "decompressed original bytes",
+  "sample_indices_file": "indices.npy",
+  "indices_hash": "f07b85b170ac363a2c71e2cb5b78091dd69888983fdd339955eec51409558dbd",
+  "subset_hash": "5defa0a4c4c5bdaf3f55ae3828310252e8565c13ee37ce279e0b86d82e7f4ce9",
+  "n_train": 270,
+  "n_features": 13,
+  "negative_count": 150,
+  "positive_count": 120,
+  "kernel": "rbf",
+  "C": 1.0,
+  "gamma": 0.045454545454545456,
+  "epsilon": 0.001,
+  "alpha0": 0,
+  "max_iter": 1000000,
+  "log_every": 10,
+  "seed": null,
+  "rng": null,
+  "dtype": "float64",
+  "shrinking": false,
+  "feature_scaling": "none",
+  "kernel_storage": "dense; subset/small-data only",
+  "code_version": "31a59a079641e9c8d04bab4e0e5b4d82fad1ef76e6476e243e73b29574df2ebb",
+  "source_sha256": {
+    "csmo.py": "2479a3ca8a02b0410a40c745bacc7205fcfd2e909a07e80067a5883667e74969",
+    "data.py": "d8f19177aa8501e83f4d3b7f4b79212e7c56341b27cc5ffc2fd47ddebeb64ef7",
+    "run.py": "12583498d16542b71d9fd5fb3ab916070191182b549d48ce2c460a88e316d2a2",
+    "test_csmo.py": "1ee7c97a5e91b0601004eb574b9f9e04bcf10a3be4910a2b35e6da4511036550"
+  },
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "numpy": "2.3.5",
+  "machine": "Linux-6.6.87.2-microsoft-standard-WSL2-x86_64-with-glibc2.39",
+  "threads": {
+    "OPENBLAS_NUM_THREADS": "1",
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1"
+  }
+}

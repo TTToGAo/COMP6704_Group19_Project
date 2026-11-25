@@ -1,0 +1,44 @@
+{
+  "full_a0": {
+    "unique_alphas_across_five_runs": 1,
+    "nonzero_coefficients": 8966,
+    "float64_recomputation": {
+      "dual_objective": 8148.188128162267,
+      "equality_residual": 0.0,
+      "box_violation": 0.0,
+      "kkt_violation": 0.000987078486032189,
+      "gmax": -1.6489246758650875,
+      "gmax2": 1.6499117543511197
+    },
+    "solver_reported_kkt": 0.0009871735500832646
+  },
+  "full_a1": {
+    "unique_alphas_across_five_runs": 1,
+    "nonzero_coefficients": 8977,
+    "float64_recomputation": {
+      "dual_objective": 8148.188188936501,
+      "equality_residual": 3.552713678800501e-15,
+      "box_violation": 1.7552680236020608e-17,
+      "kkt_violation": 0.0009849467292362135,
+      "gmax": -1.6482649139770693,
+      "gmax2": 1.6492498607063055
+    },
+    "solver_reported_kkt": 0.0009825263531373363
+  },
+  "heart_a0": {
+    "dual_objective": 106.51916728773433,
+    "equality_residual": 4.440892098500626e-16,
+    "box_violation": 0.0,
+    "kkt_violation": 0.0009922312894892205,
+    "gmax": -0.37312799161760957,
+    "gmax2": 0.3741202229070988
+  },
+  "heart_a1": {
+    "dual_objective": 106.51916809700376,
+    "equality_residual": 1.7763568394002505e-15,
+    "box_violation": 0.0,
+    "kkt_violation": 0.000951823519264039,
+    "gmax": -0.37318750686127666,
+    "gmax2": 0.3741393303805407
+  }
+}

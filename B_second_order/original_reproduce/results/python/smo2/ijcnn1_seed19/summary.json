@@ -1,0 +1,17 @@
+{
+  "dual_objective": 288.60103529190667,
+  "equality_residual": 5.551115123125783e-16,
+  "box_violation": 0.0,
+  "kkt_violation": 0.0009513005605841229,
+  "gmax": -1.2292405438807315,
+  "gmax2": 1.2301918444413156,
+  "algorithm": "second_order_smo",
+  "iterations": 467,
+  "stop_reason": "converged",
+  "failure_detail": "",
+  "internal_kkt_violation": 0.0009513005605887859,
+  "recomputed_exact_boundary_kkt": 0.0009513005605841229,
+  "gradient_max_error": 1.021405182655144e-14,
+  "n_gradient_refresh": 0,
+  "train_seconds": 0.7810851279646158
+}

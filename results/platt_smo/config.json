@@ -1,0 +1,14 @@
+{
+  "dataset_id": "heart_scale",
+  "dataset_sha256": "5defa0a4c4c5bdaf3f55ae3828310252e8565c13ee37ce279e0b86d82e7f4ce9",
+  "n_train": 270,
+  "kernel": "rbf",
+  "C": 1.0,
+  "gamma": 0.045454545454545456,
+  "epsilon": 0.001,
+  "alpha0": "zeros",
+  "max_iter": 200000,
+  "log_every": 100,
+  "seed": 19,
+  "algorithm": "platt_smo"
+}

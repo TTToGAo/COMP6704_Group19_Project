@@ -1,0 +1,36 @@
+{
+  "upstream": "https://github.com/albertotb/libsvm_cd.git",
+  "commit": "432631da95845152ce24404fbecb93a5e546e586",
+  "source_sha256": {
+    "svm.cpp": "ad6f0456f9750b734d2569168626ff8b3e805bde8d2c76a9228ce877a4eac3d7",
+    "svm.h": "4bd26a90bfa11db2ad5828d6f33ed4afe3e2c3cf4e137f767cfbca3a720af4ed",
+    "svm-train.c": "1d92029660a7e102883b4071426990809d0b40aa878223ec01704cb6602df318",
+    "svm-predict.c": "540a4dc0628ed329c20b70703100500a9666458bf9305d7484ef76511e883dbc",
+    "COPYRIGHT": "f6e01fb4f9e1aab38893a60e8535f0eac23841c6041eec15e4a84dd1973ab46f"
+  },
+  "instrumentation_sha256": "a75efa5ed57916762dd7c19ec32bc08be4ac1364792f7bfa3732f5220d5f4fbb",
+  "instrumented_solver_sha256": "c58923e5238989016640bede47a287c04332546b79fd72192800b8366f46eca5",
+  "instrumented_train_sha256": "0474790042c4e874a2c60b8d0df61ac0a4a57a8cc1e508253d63cc22b03a2697",
+  "instrumentation_locations": {
+    "stop_checks": 3,
+    "endpoint_checks": 3,
+    "objectives": 3
+  },
+  "compiler_version": "g++ (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0",
+  "flags": [
+    "-O3",
+    "-std=c++14",
+    "-DNDEBUG"
+  ],
+  "train_binary_sha256": "b2598ab068550980c2ea26963cba240b906b142a440864cc0d846dd2f8a2d7e7",
+  "predict_binary_sha256": "cf607e9ad83484277820814f7600e24a2689d200ff181fbf68b489682e704f08",
+  "machine": {
+    "os": "Linux-6.8.0-87-generic-x86_64-with-glibc2.39",
+    "architecture": "x86_64",
+    "processor": "x86_64",
+    "python": "3.13.2",
+    "numpy": "2.5.3"
+  },
+  "session_id": "20261122T111044302154Z",
+  "threads": 1
+}

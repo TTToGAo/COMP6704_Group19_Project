@@ -1,0 +1,18 @@
+{
+  "cpu_model": "AMD EPYC 9A75 64-Core Processor",
+  "logical_cpu": 90,
+  "affinity_command": "taskset -c 90",
+  "os": "Ubuntu 24.04.2 LTS",
+  "timing_scope": "std::chrono::steady_clock directly around svm_train()",
+  "shared_host": true,
+  "excluded_trial": "An earlier smoke run stopped after its first pair began. All reported runs are from the fresh five-pair session.",
+  "train_sha256": "16506cad788cf7c9607454150ed1994788204bac2ff4c9cb3b320036b6950d3f",
+  "train_identity_check": "Matches C’s stored original hash and all 1,500 saved subset rows in original order.",
+  "train_mirror": "https://raw.githubusercontent.com/santanusoemath/GRAAL_revisited/c5a95058d1054fc90c3b550430500e9e723286ec/Data/ijcnn1.bz2",
+  "test_sha256": "e7b0bbd518641980dc322746c6bc59d019d3153934e6258e48f9d8cfae2c4bb8",
+  "test_identity_check": "The two independent public copies are byte-identical and contain 91,701 examples.",
+  "test_mirrors": [
+    "https://raw.githubusercontent.com/DominiqueO/vared/be670142e087a2bbdca2da94773aaf0cb80a3b4b/data/ijcnn1/ijcnn1.t",
+    "https://raw.githubusercontent.com/adithixv/Parallel-Decision-Trees/05d48e644c8ed2763e7331b7a530861f1ef8aba8/data/ijcnn1.test.txt"
+  ]
+}

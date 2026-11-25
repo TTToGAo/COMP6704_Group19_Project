@@ -1,0 +1,9 @@
+{
+  "dataset": "bundled ijcnn1_seed19 subset",
+  "subset_sha256": "256131a7e4741b848ab9e5be8148a3f35e1d63b65d0edab3288e192bfd9a2dfc",
+  "python": "3.9.6",
+  "numpy": "1.26.4",
+  "blas_threads": 1,
+  "epsilon": 0.001,
+  "scope": "Python accepted update counts and endpoint metrics; elapsed time intentionally excluded"
+}

@@ -1,0 +1,20 @@
+{
+  "algorithm": "smo2",
+  "mode": 0,
+  "iterations": 6730,
+  "stop_reason": "converged",
+  "dual_objective": 8148.188173121678,
+  "kkt_violation": 0.0009871735500812662,
+  "gmax": -1.6489258388367911,
+  "gmax2": 1.6499130123868724,
+  "native_kkt_source": "solver_full_stop_check",
+  "train_seconds": 8.87975734,
+  "seconds_per_update": 0.0013194290252600295,
+  "n_clipped": null,
+  "n_fallback": null,
+  "equality_residual": 1.0658141036401503e-14,
+  "box_violation": 0.0,
+  "test_correct": 85087,
+  "n_test": 91701,
+  "test_accuracy": 0.9278742870852008
+}

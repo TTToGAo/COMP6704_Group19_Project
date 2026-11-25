@@ -1,0 +1,22 @@
+{
+  "dual_objective": 288.60106980260593,
+  "equality_residual": 3.3306690738754696e-16,
+  "box_violation": 0.0,
+  "kkt_violation": 0.0009913396852399003,
+  "gmax": -1.2281126037268129,
+  "gmax2": 1.2291039434120528,
+  "algorithm": "CSMO",
+  "iterations": 424,
+  "stop_reason": "converged",
+  "failure_detail": "",
+  "internal_kkt_violation": 0.0009913396852412326,
+  "recomputed_exact_boundary_kkt": 0.0009913396852399003,
+  "gradient_max_error": 1.0436096431476471e-14,
+  "n_clipped": 289,
+  "n_fallback": 0,
+  "n_conjugate": 135,
+  "n_roundoff_repair": 0,
+  "n_gradient_refresh": 0,
+  "clipping_rate": 0.6816037735849056,
+  "fallback_rate": 0.0
+}
